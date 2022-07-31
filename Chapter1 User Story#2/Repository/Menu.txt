@@ -1,0 +1,15 @@
+Espresso
+1X Espresso shot
+5.0
+Machiatto
+1X Espresso shot,1X Milk foam
+6.5
+Coffee Latte
+1X Espresso shot,2X Steamed milk,1X Milk foam
+7.5
+Cappuccino
+1X Espresso shot,1X Steamed milk,2X Milk foam
+7.5
+Coffee Miel
+1X Black coffee,1X Honey,1X Cinnamon,1X Steamed milk
+8

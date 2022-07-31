@@ -1,0 +1,4 @@
+1 Coffee Miel chosen location: delivery
+ Total fee: 8.0$
+2 Dana chosen location: delivery
+ Total fee: 8.5$

@@ -1,0 +1,14 @@
+Espresso,2.0
+Black Coffee,3.0
+Milk,2.0
+Steamed Milk,2.0
+Milk Foam,1.5
+Sweetened Condensed Milk,2.5
+Whipped Cream,3.0
+Ice Cream,3.0
+Honey,2.5
+Cinnamon,3.0
+Chocolate Syrup,3.0
+Hot Water,0.5
+Ice Cubes,1.0
+Half & Half,2.0
