@@ -1,0 +1,6 @@
+1 Espresso chosen location: delivery
+ Total fee: 5.0$
+2 Coffee Miel chosen location: delivery
+ Total fee: 8.0$
+1 Coffee Miel chosen location: delivery
+ Total fee: 8.0$
