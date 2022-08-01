@@ -1,0 +1,40 @@
+1 Coffee Miel chosen location: delivery
+ Total fee: 8.0$
+2 Dana chosen location: delivery
+ Total fee: 8.5$
+1 Cappuccino chosen location: delivery
+ Total fee: 7.5$
+2 MArcel chosen location: pick-up
+ Total fee: 8.5$
+1 Machiatto chosen location: delivery
+ Total fee: 6.5$
+1 Cappuccino chosen location: pick-up
+ Total fee: 7.5$
+1 Coffee Miel chosen location: pick-up
+ Total fee: 8.0$
+1 Coffee Miel chosen location: pick-up
+ Total fee: 8.0$
+1 Coffee Latte chosen location: pick-up
+ Total fee: 7.5$
+1 Coffee Latte chosen location: pick-up
+ Total fee: 7.5$
+2 Espresso chosen location: delivery
+ Total fee: 5.0$
+1 Coffee Miel chosen location: delivery
+ Total fee: 8.0$
+2 Andrei chosen location: pick-up
+ Total fee: 8.5$
+1 Anghel chosen location: pick-up
+ Total fee: 7.5$
+1 Machiatto chosen location: pick-up
+ Total fee: 6.5$
+1 Machiatto chosen location: pick-up
+ Total fee: 6.5$
+1 Machiatto chosen location: pick-up
+ Total fee: 6.5$
+1 Machiatto chosen location: pick-up
+ Total fee: 6.5$
+1 Coffee Miel chosen location: delivery
+ Total fee: 8.0$
+1 Cappuccino chosen location: pick-up
+ Total fee: 7.5$
