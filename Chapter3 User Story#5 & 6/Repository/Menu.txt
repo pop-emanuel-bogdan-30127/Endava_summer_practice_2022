@@ -1,0 +1,15 @@
+Espresso
+Coffee
+5.0
+Machiatto
+Coffee,Milk Foam
+6.5
+Coffee Latte
+Coffee,Steamed Milk,Milk Foam
+7.5
+Cappuccino
+Coffee,Steamed Milk,Milk Foam
+7.5
+Coffee Miel
+Black Coffee,Honey,Cinnamon,Steamed Milk
+8

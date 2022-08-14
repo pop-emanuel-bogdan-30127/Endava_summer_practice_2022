@@ -1,0 +1,5 @@
+Mircea, 1, Coffee Miel
+Paul, 2, Espresso
+Espresso, 6, Loti
+Espresso, 3, Paul
+Coffee Latte, 3, Paul
